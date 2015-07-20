@@ -1,0 +1,3 @@
+# run the "uscan" command to check for upstream updates and more.
+version=3
+http://people.sugarlabs.org/~tch/honey/FindWords/FindWords-(.*).tar.bz2

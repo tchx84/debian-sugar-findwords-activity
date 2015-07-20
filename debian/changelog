@@ -1,0 +1,11 @@
+sugar-findwords-activity (3.1-1~0tch1) trusty; urgency=medium
+
+  * Remove artwork theme dependency.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Mon, 20 Jul 2015 16:10:58 -0400
+
+sugar-findwords-activity (3.1-0~tch1) UNRELEASED; urgency=low
+
+  * Initial version for Debian.
+
+ -- Debian Sugar Team <pkg-sugar-devel@lists.alioth.debian.org>  Fri, 19 Jun 2015 17:36:52 -0300
